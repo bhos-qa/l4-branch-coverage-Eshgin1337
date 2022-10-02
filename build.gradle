@@ -37,6 +37,5 @@ sonarqube {
         property "sonar.projectKey", "bhos-qa_l4-branch-coverage-Eshgin1337"
         property "sonar.organization", "bhos-qa"
         property "sonar.host.url", "https://sonarcloud.io"
-        property "sonar.qualitygate.wait", true
     }
 }
